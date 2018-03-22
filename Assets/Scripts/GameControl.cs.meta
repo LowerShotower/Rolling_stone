@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 60e39278dd4191343bc2d31e636adc92
+timeCreated: 1438705112
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loadingScreen1: {fileID: 144994, guid: cb97c7c323aaeda49ae3262da4139178, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

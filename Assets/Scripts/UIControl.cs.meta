@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c6c68083059e45e429df793bc6aded40
+timeCreated: 1438767260
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pauseMenuPref: {fileID: 22436372, guid: 45dca1c7b75a5424db9c45c1d8db7fc2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
